@@ -1,0 +1,6 @@
+classes= 10
+train  = D:\AIedgecontest\data\train.txt
+valid  = D:\AIedgecontest\data\trainval.txt
+names = data/my-voc.names
+backup = backup
+
